@@ -1,0 +1,2 @@
+# Kahoot
+pip install kahootpy
